@@ -1,0 +1,11 @@
+/Users/boreastaver/Desktop/DNP/Session3/INTERFACE/bin/Debug/netcoreapp2.1/INTERFACE.deps.json
+/Users/boreastaver/Desktop/DNP/Session3/INTERFACE/bin/Debug/netcoreapp2.1/INTERFACE.runtimeconfig.json
+/Users/boreastaver/Desktop/DNP/Session3/INTERFACE/bin/Debug/netcoreapp2.1/INTERFACE.runtimeconfig.dev.json
+/Users/boreastaver/Desktop/DNP/Session3/INTERFACE/bin/Debug/netcoreapp2.1/INTERFACE.dll
+/Users/boreastaver/Desktop/DNP/Session3/INTERFACE/bin/Debug/netcoreapp2.1/INTERFACE.pdb
+/Users/boreastaver/Desktop/DNP/Session3/INTERFACE/obj/Debug/netcoreapp2.1/INTERFACE.csprojAssemblyReference.cache
+/Users/boreastaver/Desktop/DNP/Session3/INTERFACE/obj/Debug/netcoreapp2.1/INTERFACE.csproj.CoreCompileInputs.cache
+/Users/boreastaver/Desktop/DNP/Session3/INTERFACE/obj/Debug/netcoreapp2.1/INTERFACE.AssemblyInfoInputs.cache
+/Users/boreastaver/Desktop/DNP/Session3/INTERFACE/obj/Debug/netcoreapp2.1/INTERFACE.AssemblyInfo.cs
+/Users/boreastaver/Desktop/DNP/Session3/INTERFACE/obj/Debug/netcoreapp2.1/INTERFACE.dll
+/Users/boreastaver/Desktop/DNP/Session3/INTERFACE/obj/Debug/netcoreapp2.1/INTERFACE.pdb

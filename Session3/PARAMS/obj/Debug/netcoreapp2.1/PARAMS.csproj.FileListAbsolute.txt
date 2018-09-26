@@ -1,0 +1,11 @@
+/Users/boreastaver/Desktop/DNP/Session3/PARAMS/bin/Debug/netcoreapp2.1/PARAMS.deps.json
+/Users/boreastaver/Desktop/DNP/Session3/PARAMS/bin/Debug/netcoreapp2.1/PARAMS.runtimeconfig.json
+/Users/boreastaver/Desktop/DNP/Session3/PARAMS/bin/Debug/netcoreapp2.1/PARAMS.runtimeconfig.dev.json
+/Users/boreastaver/Desktop/DNP/Session3/PARAMS/bin/Debug/netcoreapp2.1/PARAMS.dll
+/Users/boreastaver/Desktop/DNP/Session3/PARAMS/bin/Debug/netcoreapp2.1/PARAMS.pdb
+/Users/boreastaver/Desktop/DNP/Session3/PARAMS/obj/Debug/netcoreapp2.1/PARAMS.csprojAssemblyReference.cache
+/Users/boreastaver/Desktop/DNP/Session3/PARAMS/obj/Debug/netcoreapp2.1/PARAMS.csproj.CoreCompileInputs.cache
+/Users/boreastaver/Desktop/DNP/Session3/PARAMS/obj/Debug/netcoreapp2.1/PARAMS.AssemblyInfoInputs.cache
+/Users/boreastaver/Desktop/DNP/Session3/PARAMS/obj/Debug/netcoreapp2.1/PARAMS.AssemblyInfo.cs
+/Users/boreastaver/Desktop/DNP/Session3/PARAMS/obj/Debug/netcoreapp2.1/PARAMS.dll
+/Users/boreastaver/Desktop/DNP/Session3/PARAMS/obj/Debug/netcoreapp2.1/PARAMS.pdb
